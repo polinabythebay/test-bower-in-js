@@ -1,0 +1,14 @@
+{
+  "name": "cloudinary_js",
+  "homepage": "https://github.com/cloudinary/cloudinary_js",
+  "version": "1.0.11",
+  "_release": "1.0.11",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.0.11",
+    "commit": "5b9fc77e3d5d4bdf6bfc2310066ce34b1fbc78f4"
+  },
+  "_source": "git@github.com:cloudinary/cloudinary_js.git",
+  "_target": "1.0.11",
+  "_originalSource": "git@github.com:cloudinary/cloudinary_js.git"
+}

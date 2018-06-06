@@ -1,0 +1,55 @@
+{
+  "name": "test-bower-in-js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/indiegogo/ng-gogo",
+  "description": "ng-gogo",
+  "main": "app.js",
+  "license": "None",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "angularjs-rails-resource": "~2.0.0",
+    "angular-animate": "~1.4.6",
+    "angular-cookies": "~1.4.6",
+    "angular-moment": "~0.10.0",
+    "angular-resource": "~1.4.6",
+    "angular-sanitize": "~1.4.6",
+    "angular-touch": "~1.4.6",
+    "angulartics": "indiegogo/angulartics#e6d29dec8241b719d7cdc8bcc5b1a0bc48b2586b",
+    "cloudinary_js": "git@github.com:cloudinary/cloudinary_js.git#1.0.11",
+    "moment-timezone": "~0.3.0",
+    "ngAutocomplete": "~1.0.0",
+    "json-formatter": "~0.2.7",
+    "angular-ui-grid": "~3.0.0-rc.20",
+    "at-table": "~1.0.4",
+    "angular-strap": "~2.3.7",
+    "angular-picturefill": "*",
+    "angular-local-storage": "~0.2.2",
+    "jquery.payment": "~1.2.3",
+    "angular-motion": "~0.4.2",
+    "angular-colorthief": "~0.1.0",
+    "color-thief": "*",
+    "angulartics-google-analytics": "~0.1.1",
+    "froogaloop": "~1.0.0",
+    "angularjs-dropdown-multiselect": "indiegogo/angularjs-dropdown-multiselect#9aef8066fd145d8548c56b5514a2d5425429c569",
+    "angular-recaptcha": "~2.4.1",
+    "angular-uri": "~0.2.0",
+    "angular-clipboard": "~1.1.2"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.6",
+    "lodash": "~2.4.1"
+  },
+  "resolutions": {
+    "angular": "~1.4.6",
+    "angularjs-dropdown-multiselect": "8025c8d509383bb037758f5fda41c8a366b83689",
+    "angulartics": "e6d29dec8241b719d7cdc8bcc5b1a0bc48b2586b"
+  }
+}

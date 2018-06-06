@@ -1,0 +1,50 @@
+{
+  "name": "angularjs-dropdown-multiselect",
+  "authors": [
+    "Dotan Simha <dotansimha@gmail.com>"
+  ],
+  "description": "AngularJS Dropdown Multiselect directive",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "directive",
+    "dropdown",
+    "multiselect",
+    "checklist",
+    "list",
+    "bootstrap",
+    "checkbox"
+  ],
+  "license": "MIT",
+  "main": "src/angularjs-dropdown-multiselect.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.0",
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {
+    "angular": "~1.2.0",
+    "angular-animate": "~1.2.0",
+    "angular-sanitize": "~1.2.0",
+    "angular-touch": "~1.2.0",
+    "angular-route": "~1.2.0",
+    "lodash": "~2.4.1",
+    "bootstrap": "~3.1.1",
+    "angular-highlightjs": "~0.2.7"
+  },
+  "homepage": "https://github.com/indiegogo/angularjs-dropdown-multiselect",
+  "_release": "9aef8066fd",
+  "_resolution": {
+    "type": "commit",
+    "commit": "9aef8066fd145d8548c56b5514a2d5425429c569"
+  },
+  "_source": "https://github.com/indiegogo/angularjs-dropdown-multiselect.git",
+  "_target": "9aef8066fd145d8548c56b5514a2d5425429c569",
+  "_originalSource": "indiegogo/angularjs-dropdown-multiselect"
+}
